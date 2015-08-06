@@ -1,0 +1,12 @@
+body{
+    background: #333;
+    color: #ccc;
+}
+
+a{
+    color: #ccc;
+}
+
+h1, li{
+    font-family: 'Creepster', cursive;
+}
